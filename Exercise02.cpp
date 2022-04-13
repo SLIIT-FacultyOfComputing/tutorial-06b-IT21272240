@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 #include "Box.h"
-
 int main() {
   
    // 1. Create a Box type object called box1
